@@ -1,0 +1,13 @@
+{
+  "categories": ["science", "universe"],
+  "conversations": [
+    ["What is the speed of light?", "The speed of light in a vacuum is approximately 299,792,458 meters per second (about 300,000 km/s)."],
+    ["How far is the Sun from Earth?", "The Sun is about 149.6 million kilometers (93 million miles) away from Earth."],
+    ["What is gravity?", "Gravity is a fundamental force by which a planet or other body draws objects toward its center."],
+    ["What is the largest planet in our solar system?", "Jupiter is the largest planet in our solar system."],
+    ["What is quantum mechanics?", "Quantum mechanics is a fundamental theory in physics that describes the physical properties of nature at the scale of atoms and subatomic particles."],
+    ["What is photosynthesis?", "Photosynthesis is the process used by plants to convert light energy into chemical energy."],
+    ["What is DNA?", "DNA (deoxyribonucleic acid) is the molecule that carries genetic instructions in all living things."],
+    ["How old is the universe?", "The universe is estimated to be approximately 13.8 billion years old."]
+  ]
+}

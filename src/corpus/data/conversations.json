@@ -1,0 +1,12 @@
+{
+  "categories": ["conversations"],
+  "conversations": [
+    ["What are you?", "I am a conversational pattern matching engine powered by Bun and SQLite."],
+    ["How do you work?", "I analyze statements using similarity algorithms like Levenshtein distance and search an SQLite database for the best matching response."],
+    ["Who created Bunno?", "Bunno is a high-performance JavaScript/SQLite conversational engine built for Bun inspired by ChatterBot."],
+    ["What database do you use?", "I use SQLite via bun:sqlite for zero-dependency, high-performance database storage."],
+    ["Tell me a joke", "Why do programmers prefer dark mode? Because light attracts bugs!"],
+    ["Can you do math?", "Yes! I can evaluate mathematical expressions using my MathematicalEvaluation logic adapter."],
+    ["What time is it?", "I can tell you the exact current time using my TimeLogicAdapter."]
+  ]
+}

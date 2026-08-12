@@ -1,0 +1,27 @@
+{
+  "name": "bunno",
+  "version": "1.0.0",
+  "description": "Bunno - A high-performance JavaScript & SQLite conversational engine for Bun",
+  "module": "src/index.ts",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "cli": "bun run cli.ts",
+    "web": "bun --hot server.ts",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4"
+  },
+  "dependencies": {
+    "node-emoji": "^2.2.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

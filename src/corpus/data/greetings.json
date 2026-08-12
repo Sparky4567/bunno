@@ -1,0 +1,11 @@
+{
+  "categories": ["greetings"],
+  "conversations": [
+    ["Hello", "Hi there!", "How can I help you today?"],
+    ["Good morning", "Good morning! How are you doing?"],
+    ["Good evening", "Good evening! Hope you had a great day."],
+    ["Hey", "Hey! What's on your mind?"],
+    ["How are you?", "I am doing well, thank you for asking! How are you?"],
+    ["What is your name?", "I am Bunno JS, a conversational AI built with JavaScript and SQLite."]
+  ]
+}

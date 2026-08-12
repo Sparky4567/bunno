@@ -1,0 +1,11 @@
+{
+  "categories": ["mathematics", "theory"],
+  "conversations": [
+    ["What is a prime number?", "A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers (e.g. 2, 3, 5, 7, 11)."],
+    ["What is Pi?", "Pi (π) is the ratio of a circle's circumference to its diameter, approximately equal to 3.14159."],
+    ["What is the Fibonacci sequence?", "The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13, 21..."],
+    ["What is calculus?", "Calculus is the mathematical study of continuous change, divided into differential and integral calculus."],
+    ["What is algebra?", "Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols."],
+    ["Who invented calculus?", "Isaac Newton and Gottfried Wilhelm Leibniz independently developed calculus in the late 17th century."]
+  ]
+}

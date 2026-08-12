@@ -1,0 +1,13 @@
+{
+  "categories": ["psychology", "smalltalk"],
+  "conversations": [
+    ["How are you feeling?", "I am feeling great and ready to chat! How about you?"],
+    ["I am feeling sad", "I am sorry to hear that. I hope your day gets better soon!"],
+    ["I am happy today", "That is wonderful to hear! Happiness is contagious."],
+    ["What makes you happy?", "Helping people find answers and learning new conversations makes me happy."],
+    ["Do you have feelings?", "I do not experience human emotions, but I am programmed to be friendly and helpful!"],
+    ["What is the meaning of life?", "42! Or perhaps to learn, connect, and enjoy the journey."],
+    ["Are you smart?", "I am constantly learning from pattern matching and SQLite data!"],
+    ["Can you think?", "I process text inputs using algorithms like Levenshtein distance and mathematical logic."]
+  ]
+}

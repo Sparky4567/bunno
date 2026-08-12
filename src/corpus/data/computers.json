@@ -1,0 +1,16 @@
+{
+  "categories": ["computers", "technology"],
+  "conversations": [
+    ["What is a computer?", "A computer is an electronic device that processes data according to instructions."],
+    ["What is programming?", "Programming is the process of writing instructions for computers to execute tasks."],
+    ["What is JavaScript?", "JavaScript is a lightweight, high-level programming language used for web applications, servers, and interactive software."],
+    ["What is TypeScript?", "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at scale."],
+    ["What is Bun?", "Bun is an all-in-one JavaScript runtime, bundler, test runner, and package manager designed for extreme speed."],
+    ["Why is Bun so fast?", "Bun is built from scratch using Zig and JavaScriptCore, optimizing startup times and memory usage."],
+    ["What is SQLite?", "SQLite is a C-language library that implements a self-contained, serverless, zero-configuration SQL database engine."],
+    ["What is an algorithm?", "An algorithm is a finite sequence of step-by-step instructions to solve a problem or perform a computation."],
+    ["What is an API?", "An API (Application Programming Interface) allows different software applications to communicate with each other."],
+    ["What is Git?", "Git is a distributed version control system designed to track changes in source code during software development."],
+    ["What is open source?", "Open source software is software with source code that anyone can inspect, modify, and enhance."]
+  ]
+}

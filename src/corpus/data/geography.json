@@ -1,0 +1,12 @@
+{
+  "categories": ["geography", "world_facts"],
+  "conversations": [
+    ["How many continents are there?", "There are 7 continents on Earth: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."],
+    ["What is the longest river in the world?", "The Nile River in Africa is traditionally considered the longest river in the world, stretching about 6,650 kilometers."],
+    ["What is the largest desert in the world?", "The Antarctic Desert is the largest overall desert, while the Sahara is the largest hot desert."],
+    ["What is the smallest country in the world?", "Vatican City is the smallest independent state in the world both by area and population."],
+    ["What country has the largest population?", "India and China have the largest populations in the world."],
+    ["What is the deepest ocean trench?", "The Mariana Trench in the western Pacific Ocean is the deepest known location on Earth."],
+    ["Which country is known as the Land of the Rising Sun?", "Japan is commonly known as the Land of the Rising Sun."]
+  ]
+}

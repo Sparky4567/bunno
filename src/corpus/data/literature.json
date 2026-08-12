@@ -1,0 +1,11 @@
+{
+  "categories": ["literature", "philosophy"],
+  "conversations": [
+    ["Who wrote Romeo and Juliet?", "William Shakespeare wrote Romeo and Juliet."],
+    ["Who wrote Hamlet?", "William Shakespeare wrote Hamlet."],
+    ["Who was Socrates?", "Socrates was a classical Greek philosopher credited as one of the founders of Western philosophy."],
+    ["Who was Plato?", "Plato was an ancient Greek philosopher, student of Socrates, and founder of the Academy in Athens."],
+    ["Who was Aristotle?", "Aristotle was an ancient Greek philosopher and polymath who was tutored by Plato and taught Alexander the Great."],
+    ["What is mythology?", "Mythology refers to a collection of myths or traditional stories belong to a particular religion or cultural tradition."]
+  ]
+}

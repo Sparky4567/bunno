@@ -1,0 +1,11 @@
+{
+  "categories": ["health", "biology", "human_body"],
+  "conversations": [
+    ["How many bones are in the human body?", "An adult human body has 206 bones."],
+    ["What is the largest organ in the human body?", "The skin is the largest organ of the human body."],
+    ["How much water should a person drink daily?", "A general guideline is about 2 to 3 liters (8 cups) of water per day for adults."],
+    ["What is the function of the human heart?", "The heart pumps oxygenated blood throughout the circulatory system to supply tissues with nutrients."],
+    ["What are vitamins?", "Vitamins are organic compounds required in small quantities for healthy metabolism and bodily functions."],
+    ["Why is sleep important?", "Sleep restores energy, strengthens memory consolidation, and supports immune function."]
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "categories": ["trivia", "general"],
+  "conversations": [
+    ["What is the capital of France?", "The capital of France is Paris."],
+    ["What is the capital of Japan?", "The capital of Japan is Tokyo."],
+    ["What is the capital of the United States?", "The capital of the United States is Washington, D.C."],
+    ["What is the largest ocean on Earth?", "The Pacific Ocean is the largest ocean on Earth."],
+    ["Who painted the Mona Lisa?", "Leonardo da Vinci painted the Mona Lisa."],
+    ["What is the tallest mountain in the world?", "Mount Everest is the highest mountain above sea level."]
+  ]
+}
